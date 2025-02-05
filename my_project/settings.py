@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hell0_world',
+    'about',
 ]
 
 MIDDLEWARE = [
